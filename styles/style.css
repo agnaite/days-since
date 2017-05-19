@@ -1,0 +1,12 @@
+.container{
+  padding-top: 200px;
+}
+
+.days {
+  text-align: center;
+  font-size: 8em;
+}
+
+.btn {
+  margin-bottom: 10px !important;
+}
